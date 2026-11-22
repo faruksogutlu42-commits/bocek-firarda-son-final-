@@ -1,0 +1,6 @@
+{
+  "name": "ZipSahne",
+  "description": "Oyun ve web projelerini içeren .zip dosyalarını eksiksiz açıp doğrudan canlı önizlemede çalıştıran ve oynatan stüdyo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
